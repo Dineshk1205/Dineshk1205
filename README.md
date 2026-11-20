@@ -11,7 +11,7 @@ This GitHub is where I keep the scripts and automation from my labs and real-wor
 ### 🛠️ What I work with
 
 - **OpenShift** – bare-metal clusters across DC/DR, ACM, ODF, OpenShift Virtualization, GitOps, OADP backups
-- **Kubernetes** – upstream (kubeadm, CRI-O), Tanzu, AKS on Azure Local, Helm, Harbor
+- **Kubernetes** – upstream (kubeadm, CRI-O), Rancher/rke2, Tanzu, AKS on Azure Local, Helm, Harbor
 - **Virtualization** – VMware vSphere, VCF, NSX-T, SRM, KVM, Oracle OLVM
 - **OpenStack** – Kolla-Ansible with Ceph, RHOSO (OpenStack Services on OpenShift)
 - **Automation** – Terraform, Ansible / Ansible Automation Platform, vRealize Automation, Bash, GitLab CI/CD
@@ -19,7 +19,9 @@ This GitHub is where I keep the scripts and automation from my labs and real-wor
 - **Telco** – VMware Telco Cloud Automation, VNFs and CNFs
 
 ### 🎓 Certifications
-
+  
+- SCDS in Rancher Kubernetes Engine 2
+- SCDS in SUSE AI
 - Certified Kubernetes Administrator (CKA)
 - Red Hat Certified Specialist in OpenShift Virtualization
 - Red Hat Certified Specialist in OpenShift Advanced Cluster Security
