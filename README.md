@@ -2,7 +2,7 @@
 
 **Cloud & Platform Engineer · Virtualization · OpenShift · Kubernetes · OpenStack**
 
-I've spent the last 8+ years building, running and automating virtualization, cloud and Kubernetes platforms for telco, banking, government and enterprise environments. I'm just as comfortable in a traditional VMware or KVM setup as I am with containers on OpenShift, and I like taking messy, manual infrastructure work and turning it into something repeatable with Terraform and Ansible.
+I've spent the last 9+ years building, running and automating virtualization, cloud and Kubernetes platforms for telco, banking, government and enterprise environments. I'm just as comfortable in a traditional VMware or KVM setup as I am with containers on OpenShift, and I like taking messy, manual infrastructure work and turning it into something repeatable with Terraform and Ansible.
 
 This GitHub is where I keep the scripts and automation from my labs and real-world deployments. I also write about what I learn on my blog, **[kdinesh.in](https://kdinesh.in)**.
 
